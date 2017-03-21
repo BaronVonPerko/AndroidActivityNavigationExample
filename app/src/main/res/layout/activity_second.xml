@@ -7,10 +7,9 @@
     tools:context="net.chrisperko.navigatebetweenactivities.SecondActivity">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/tvMessage"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello there!"
         tools:layout_editor_absoluteY="247dp"
         tools:layout_editor_absoluteX="163dp" />
 </android.support.constraint.ConstraintLayout>
